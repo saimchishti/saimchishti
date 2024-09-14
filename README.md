@@ -10,7 +10,6 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy developing games in my free time!
 
 ---
 
