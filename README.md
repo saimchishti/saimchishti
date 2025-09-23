@@ -1,42 +1,51 @@
-# Hi, I'm Saim Chishti 👋
+# Hi, I'm Saim Chishti 👋  
 
-I’m an **AI Researcher** and **Developer** with a strong passion for **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. I thrive on tackling complex problems through both research and development, and I am always open to collaborating on exciting AI and software projects!
+I’m an **AI/ML Engineer** and **Applied AI Researcher** passionate about building impactful solutions at the intersection of **Artificial Intelligence, Machine Learning, and Social Good**. My work spans from **Agentic AI and Multi-Agent Systems** to **Medical AI, NLP, Computer Vision, and MLOps**. I thrive on solving complex problems through research, development, and large-scale deployment of AI systems.  
 
-### 💼 Current Focus
-- Developing and optimizing cutting-edge Machine Learning and Deep Learning models.
-- Building and deploying AI-driven applications, including real-time **Computer Vision** and **NLP** systems.
-- Researching the latest advancements in **Large Language Models (LLMs)** and **Natural Language Processing (NLP)**.
-- Software development in AI-powered solutions, backend systems, and scalable architectures.
+---
 
-### 🌱 What I'm looking for:
-- Collaboration on projects related to **AI**, **ML**, **DL**, **Computer Vision**, and **NLP**.
-- Open-source projects in AI and software development.
-- Consulting, freelance work, or advisory roles in AI development and research.
+### 💼 Current Roles & Focus  
+- **Senior AI/ML Engineer @ ITEK Global Group** – Leading AI & analytics projects in healthcare, logistics, and enterprise applications.  
+- **Machine Learning Research Assistant @ Center of Excellence - AI** – Conducted research on medical AI, NLP, and MLOps, including developing interpretable models for disease detection.  
+- **Founder & President, AI Club @ Bahria University** – Training 100+ students and leading collaborative AI research projects.  
 
-### 📫 How to reach me:
-- **Email**: [saimchisti@gmail.com](mailto:saimchisti@gmail.com)
-- **LinkedIn**: [Saim Chishti](https://www.linkedin.com/in/saim-chishti-9a3569278/?originalSubdomain=pk)
+---
 
-### 🔭 Skills and Expertise:
-#### **AI & Machine Learning:**
-- **Languages**: Python, C++, TensorFlow, PyTorch
-- **Areas**:
-  - Machine Learning (ML) & Deep Learning (DL)
-  - Computer Vision (CV)
-  - Natural Language Processing (NLP)
-  - Large Language Models (LLM)
-  - Data Science & Analytics
-  - Reinforcement Learning
-- **Tools & Frameworks**:
-  - TensorFlow, PyTorch, Keras
-  - Scikit-learn, OpenCV
-  - Pygame
-  - Hugging Face, SpaCy
-  - Jupyter, Google Colab
-  - Flutter
-    
+### 📚 Research Interests  
+- **Agentic AI & Multi-Agent Systems** – Scalable, interpretable, and adaptive frameworks.  
+- **Large Language Models (LLMs)** – Optimization, fine-tuning, RAG, and deployment.  
+- **Medical AI** – AI for diagnostics, accessibility, and healthcare impact.  
+- **NLP & Computer Vision** – Text analysis, classification, and image-based applications.  
+- **MLOps & Infrastructure** – Scalable pipelines for real-world AI systems.  
 
+---
 
-### 🌍 Let's Collaborate:
-Whether you're looking for an AI expert or a developer to help bring your project to life, I'm here to help! Feel free to reach out if you're interested in collaborating or just want to chat about AI and development.
+### 📰 Publications  
+- *From CBC to clarity: Interpretable detection of beta-thalassemia carriers in imbalanced datasets* – **PLOS ONE, 2025** ([DOI: 10.1371/journal.pone.0331985](https://doi.org/10.1371/journal.pone.0331985))  
+- *T-SPOT Test-Based Tuberculosis Detection Using Machine Learning* – Submitted  
 
+---
+
+### 🔧 Skills & Tools  
+
+**Programming & Frameworks:** Python, C++, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hugging Face  
+**MLOps & Cloud:** Docker, Kubernetes, MLflow, DVC, Weights & Biases, AWS, Google Cloud, Azure  
+**Databases & Dev:** PostgreSQL, MongoDB, Vector Databases, FastAPI, Django, Flask, React  
+**Other Expertise:** LangChain, RAG systems, LangSmith, LangFuse, Flutter  
+
+---
+
+### 🏆 Awards & Distinctions  
+- **DevFest 2023 – Organization Excellence Award**  
+- **InnoFest Achievement Award**  
+- **Bahria University Recognition Award**  
+- **Best Team Lead & Sales Award – Python Leads Pakistan (2021–2022)**  
+
+---
+
+### 🌍 Let’s Connect  
+- **Email:** [saimchisti@gmail.com](mailto:saimchisti@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/saim-chishti-9a3569278](https://www.linkedin.com/in/saim-chishti-9a3569278)  
+- **GitHub:** [github.com/saimchishti](https://github.com/saimchishti)  
+
+---
