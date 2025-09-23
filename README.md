@@ -33,15 +33,7 @@ I’m an **AI/ML Engineer** and **Applied AI Researcher** passionate about build
 **Databases & Dev:** PostgreSQL, MongoDB, Vector Databases, FastAPI, Django, Flask, React  
 **Other Expertise:** LangChain, RAG systems, LangSmith, LangFuse, Flutter  
 
----
 
-### 🏆 Awards & Distinctions  
-- **DevFest 2023 – Organization Excellence Award**  
-- **InnoFest Achievement Award**  
-- **Bahria University Recognition Award**  
-- **Best Team Lead & Sales Award – Python Leads Pakistan (2021–2022)**  
-
----
 
 ### 🌍 Let’s Connect  
 - **Email:** [saimchisti@gmail.com](mailto:saimchisti@gmail.com)  
