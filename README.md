@@ -22,7 +22,6 @@ I’m an **AI/ML Engineer** and **Applied AI Researcher** passionate about build
 
 ### 📰 Publications  
 - *From CBC to clarity: Interpretable detection of beta-thalassemia carriers in imbalanced datasets* – **PLOS ONE, 2025** ([DOI: 10.1371/journal.pone.0331985](https://doi.org/10.1371/journal.pone.0331985))  
-- *T-SPOT Test-Based Tuberculosis Detection Using Machine Learning* – Submitted  
 
 ---
 
