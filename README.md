@@ -4,7 +4,7 @@ I’m an **AI/ML Engineer** and **Applied AI Researcher** passionate about build
 
 ---
 
-### 💼 Current Roles & Focus  
+### 💼 Roles & Focus  
 - **Senior AI/ML Engineer @ ITEK Global Group** – Leading AI & analytics projects in healthcare, logistics, and enterprise applications.  
 - **Machine Learning Research Assistant @ Center of Excellence - AI** – Conducted research on medical AI, NLP, and MLOps, including developing interpretable models for disease detection.  
 - **Founder AI Club @ Bahria University** – Training 100+ students and leading collaborative AI research projects.  
