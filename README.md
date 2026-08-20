@@ -1,6 +1,6 @@
 # Hi, I'm Saim Chishti 👋
 
-**AI/ML Systems Engineer** building real-time Speech-to-Speech AI at [Qorden AI](https://qorden.ai) — sub-second glass-to-glass latency across 50+ languages. Applied AI researcher on the side (RL for speech translation, medical ML). Open to remote collaboration, research partnerships, and interesting problems.
+**AI/ML Engineer & Applied AI Researcher** working across real-time Speech AI, multi-agent LLM systems, medical ML, and MLOps. Currently architecting production Speech-to-Speech infrastructure at [Qorden AI](https://qorden.ai). Published researcher (PLOS ONE). Open to remote collaboration, research partnerships, and interesting problems.
 
 📍 Islamabad, Pakistan · 🌐 Open to remote work
 
@@ -13,21 +13,22 @@ Lead architectural design of high-concurrency Speech-to-Speech frameworks poweri
 
 ---
 
+### 📚 Areas of Expertise
+
+- **Agentic AI & Multi-Agent Systems** — scalable, interpretable, coordination frameworks for real-world workflows
+- **Speech AI** — real-time STT/TTS pipelines, VAD, low-latency S2S translation, neural voice cloning
+- **LLMs & GenAI** — RAG pipelines, LoRA/QLoRA fine-tuning, RLHF, prompt engineering, LLMOps
+- **Medical AI** — interpretable diagnostic models, explainability (SHAP), clinical ML
+- **NLP & Computer Vision** — document/legal NLP pipelines, YOLO/CNN-based CV systems
+- **MLOps & Infrastructure** — containerized, horizontally scalable ML systems in production
+
+---
+
 ### 🚀 Featured Projects
 
 **[Dubbix](https://dubbix.com)** — Real-time Speech-to-Speech translation platform, sub-second glass-to-glass latency across 50+ languages. Full pipeline: VAD → streaming STT → LLM translation → neural TTS with voice cloning, on an enterprise-grade Docker microservices architecture.
 
 **[Qordenate](https://qorden.ai)** — Live video conferencing with built-in multilingual AI translation, real-time speech analytics, post-call intelligence, Auto QA, and agent-assist for enterprise contact centers across the MENA region.
-
----
-
-### 🕓 Prior Experience
-
-**Applied AI Engineer, Quantabyte** — *Apr 2025 – Nov 2025*
-Led the AI division across restaurant, logistics, and enterprise automation verticals. Built production LLMOps pipelines and multi-agent call agents (LangGraph/LangChain), plus end-to-end CV systems (YOLO, CNNs) and BI dashboards.
-
-**AI Technical Lead & Program Head, Ucapacity Pvt. Ltd. (NASTP Rawalpindi)** — *Oct 2024 – Apr 2025*
-Directed AI-driven program development in law-tech for defense and government clients. Engineered custom NLP pipelines for legal document parsing and information retrieval.
 
 ---
 
