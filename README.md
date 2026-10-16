@@ -38,7 +38,6 @@ Published researcher (PLOS ONE) with ongoing work in RL for speech-to-speech tra
 
 - **[From CBC to Clarity: Interpretable Detection of Beta-Thalassemia Carriers](https://doi.org/10.1371/journal.pone.0331985)** — *PLOS ONE, 2025*. Interpretable ML for carrier detection from CBC data, with SHAP-based explainability.
 - **T-SPOT Test-Based Tuberculosis Detection Using Machine Learning** — CNN-based image classification for TB screening. *In peer-review revision.*
-- **When Reward Doesn't See Everything: Modality-Blind Credit Assignment for Simultaneous Speech-to-Speech Translation** — RL study of credit assignment/reward myopia in S2ST, benchmarking GRPO, PPO+GAE, and gated/critic-augmented variants against a Hibiki-Zero baseline. *In preparation, targeting ICLR.*
 
 ---
 
